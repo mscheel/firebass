@@ -1,3 +1,7 @@
+PLEASE update contact.info if you want to continue into phase 2, we'll be having a video hangout at 11:50PM Sunday night May 22 California time.  Ten minutes later the countdown should be up and phase 2 will begin ...
+
+Disorganized notes below from Day 1 / phase 1 work - May 18
+
 hgwells
 flux capacitor
 INTERNET TIME TRAVELER.
