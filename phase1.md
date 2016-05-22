@@ -45,7 +45,9 @@ Go to https://firebase.foo/admin/firebass/access.html
 
 ## 1.2 - Phase 1, puzzle 2
 
-### Input:  https://firebase.foo/admin/firebass/access.html
+### Input:  
+
+https://firebase.foo/admin/firebass/access.html
 
 ### Notes:
 
