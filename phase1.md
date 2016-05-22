@@ -79,11 +79,13 @@ https://firebase.foo/admin/firebass/access.html
 
 ### Solution: 
 
-probassfinders.foo/home/hgwells.html
+https://probassfinders.foo/home/hgwells.html
 
 ## 1.3 - Phase 1, puzzle 3
 
-### Input: probassfinders.foo/home/hgwells.html
+### Input: 
+
+https://probassfinders.foo/home/hgwells.html
 
 ### Notes:
 
