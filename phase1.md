@@ -38,7 +38,8 @@ The build on the `master` production branch is currently not working correctly. 
 - this appears to be a dead end for now, so instead go to firebase.foo/admin/firebase/access.html from HTML error above
 - this page is not found, but as hinted at by the typo's on page change out an e for an s to give you: https://firebase.foo/admin/firebass/access.html
 - there is a javascript function referencing isogram
-###Solution:
+
+### Solution:
 
 Go to https://firebase.foo/admin/firebass/access.html
 
