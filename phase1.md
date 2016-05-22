@@ -137,7 +137,7 @@ firebass$ YOUR HUMAN BRAIN CANNOT COMPREHEND THE BINARY STREAM LIKE THAT OF SUPE
 * Count checked boxes as a 1 and unchecked as a 0 again reading left to right and down after each row and you get:
 * `0110001001101100011100000010111001101000011101000110110101101100`
 * Translate that with binary to ascii converter (http://www.binaryhexconverter.com/binary-to-ascii-text-converter)
-* `bpl.html`
+* `blp.html`
 * Leading to: https://probassfinders.foo/bass/blp.html
 
 ### Solution:
@@ -178,4 +178,6 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAACAAQMAAADJSp9YAAAAGXRFWHRTb2
 
 ###Solution:
 
-Wait until 5/23/2016
+* Wait until 5/23/2016
+* These are still unsolved items and could be part of phase 2 - the 1.1 README repo stuff, the login of Shirley at 1.3 My Account
+
