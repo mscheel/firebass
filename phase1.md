@@ -140,6 +140,11 @@ firebass$ YOUR HUMAN BRAIN CANNOT COMPREHEND THE BINARY STREAM LIKE THAT OF SUPE
 * `blp.html`
 * Leading to: https://probassfinders.foo/bass/blp.html
 
+Other note: if you solve the puzzle by clicking all the boxes, you get a javascript pop-up: 
+
+<img src="screenshots/red-herring.png" alt="portal 2008" width="500px"/>
+
+
 ### Solution:
 
 https://probassfinders.foo/bass/blp.html
