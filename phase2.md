@@ -74,6 +74,8 @@ If you click Featured Bass you will see a page that appears to have a time-locke
 
 Notice how the class is `time`, perhaps the `[0-9]+` part of the image filename is a timestamp. Adding them gives `134906793` which converts to 04/11/1974 @ 10:06am (UTC).
 
+The image 2's filename is "12discovery4446.png". Was visible earlier in the competition.
+
 One of the top results after googling for `found evidence 1974` is *Lucy* the australopithecus.
 
 #### Clue 4
