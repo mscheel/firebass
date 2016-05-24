@@ -1,7 +1,7 @@
 # Firebass > > ( ( ( ° <
 
 
-**PLEASE update contact.info** with your info, if you want to continue into phase 2, we'll be having a video hangout at 11:50PM Sunday night May 22 California time.  Ten minutes later the countdown should be up and phase 2 will begin ...
+**PLEASE update contact.info** with your info, if you want to continue into phase 3, we'll be having a video hangout at 4:50PM Tuesday night May 24 California time.  Ten minutes later the countdown should be up and phase 3 will begin ...
 
 Let's catch this fish together!
 
