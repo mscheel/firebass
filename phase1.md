@@ -142,7 +142,7 @@ firebass$ YOUR HUMAN BRAIN CANNOT COMPREHEND THE BINARY STREAM LIKE THAT OF SUPE
 
 Other note: if you solve the puzzle by clicking all the boxes, you get a javascript pop-up: 
 
-<img src="screenshots/red-herring.png" alt="portal 2008" width="500px"/>
+<img src="screenshots/red_herring.png" alt="portal 2008" width="500px"/>
 
 
 ### Solution:
