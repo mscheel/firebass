@@ -1,13 +1,12 @@
 ### The hunt begins 
 
-While at google i/o, there were a lot of references to Alex Meddleton who lost his fish...
-
-TODO: Add all the stuff related here.
-
+While at google i/o, there were a lot of references to Alex Meddleton who lost his fish. There were tweets flying around, during the keynote on some pre-slides there was a `HELP I LOST MY FISH MESSAGE` as well.
 
 ### Business Cards
 
-TODO: Add screenshot of the business card
+Scattered at the firebase area in google i/o were hundreds of these cards.
+
+<img src="screenshots/business-card-alex-meddleton.jpg" alt="business card" width="500px"/>
 
 ### Playing Cards
 
