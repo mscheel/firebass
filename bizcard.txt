@@ -1,9 +1,0 @@
-Business Card found at Google I/O that got me started, details:
-
-Firebase
-"Help! I lost my fish.  Plz help me find it.  Last seen at firebase.foo"
-Alex Meddleton
-ameddletion@firebase.com
-(415) 779-1261
-@alexmeddleton
-firebase.google.com
