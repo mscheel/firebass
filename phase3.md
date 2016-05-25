@@ -128,4 +128,21 @@ system$ You have successfully renamed Firebass to Firebase. You win. What is nex
 
 After the google doc was taken down, the last line in the terminal now reads `http://probassfinders.foo/supersecretswimmerwinners/gift-shop.html`
 
+After ~ 24 hours we all recieved an email from google saying we won! Here's the email we got:
+
+```
+Hi Brandon,
+
+Congratulations! You are one of the first 100 people to complete the Firebase challenge. Your spot hasn’t been secured just yet. Please follow the instructions below to claim your ticket.
+
+Instructions:
+
+Click REPLY to this email <redacted> and include your first and last name in the body of your message. We’ll send you a confirmation email within 24 hours. If we do not receive your reply within 10 days, your eligibility may expire. 
+
+Thanks in advance for your prompt response.
+
+The Firebase Team
+<redacted>
+```
+
 Now that you're done, relax with some chill music curated by our team @ https://open.spotify.com/user/lernerbrandon/playlist/6ZWKtnGZdAf9VweyALh7CT
