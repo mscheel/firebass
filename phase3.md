@@ -35,7 +35,21 @@ When you click on the sound bit @ https://probassfinders.foo/finclub/featured-fi
 </script>
 ```
 
-When you follow the instructions on how to connect to the db (we generated the token in part 1) and go for the file that they tell you to connect to, you download this file: https://firebasestorage.googleapis.com/v0/b/firebass-450f9.appspot.com/o/spectrogram.wav?alt=media&token=fee520a4-19ae-4106-89fe-5ae9df6c8330
+When you follow the instructions on how to connect to the db, you end up with the script.
+
+```
+<script>
+    console.log('TODO: Complete connection to Firebase Storage');
+    var storageRef = firebase.app().storage().ref();
+    var file = storageRef.child('spectrogram.wav').getDownloadURL().then(function(url) {
+    console.log("URL IS: " + url);
+}).catch(function(error) {
+    console.log("URL IS UNKNOWN");
+});
+</script>
+```
+
+When you reload the page, the console spits out htis url with a link to the wav file: `https://firebasestorage.googleapis.com/v0/b/firebass-450f9.appspot.com/o/spectrogram.wav?alt=media&token=fee520a4-19ae-4106-89fe-5ae9df6c8330`
 
 After downloading the file, `spectogram.wav` you can put it into audacity and convert it to a spectogram, it returns the following image:
 
