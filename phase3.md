@@ -20,14 +20,6 @@ On the bottom of the page, the first part of the link is displayed right in fron
 #### Clue #3 (MOODMUSIC)
 
 When you click on the sound bit @ https://probassfinders.foo/finclub/featured-fish.html you see a reference to this code in your console. 
-When you follow the instructions on how to connect to the db (we generated the token in part 1) and go for the file that they tell you to connect to, you download this file: https://firebasestorage.googleapis.com/v0/b/firebass-450f9.appspot.com/o/spectrogram.wav?alt=media&token=fee520a4-19ae-4106-89fe-5ae9df6c8330
-
-After downloading the file, `spectogram.wav` you can put it into audacity and convert it to a spectogram, it returns the following image:
-
-<img src="screenshots/hint_3_decoded.png" alt="sub 3" width="700px"/>
-
-
-
 ```
 <script>
     console.log('TODO: Complete connection to Firebase Storage');
@@ -38,8 +30,11 @@ After downloading the file, `spectogram.wav` you can put it into audacity and co
 </script>
 ```
 
-<img src="screenshots/hint_3_decoded.png" alt="sub 1" width="200px"/>
+When you follow the instructions on how to connect to the db (we generated the token in part 1) and go for the file that they tell you to connect to, you download this file: https://firebasestorage.googleapis.com/v0/b/firebass-450f9.appspot.com/o/spectrogram.wav?alt=media&token=fee520a4-19ae-4106-89fe-5ae9df6c8330
 
+After downloading the file, `spectogram.wav` you can put it into audacity and convert it to a spectogram, it returns the following image:
+
+<img src="screenshots/hint_3_decoded.png" alt="sub 3" width="700px"/>
 
 #### Clue #4 (Alex)
 #### Clue #5 (index)
