@@ -6,7 +6,7 @@ While at google i/o, there were a lot of references to Alex Meddleton who lost h
 
 Scattered at the firebase area in google i/o were hundreds of these cards.
 
-<img src="screenshots/business-card-alex-meddleton.jpg" alt="business card" width="500px"/>
+<img src="business-card-alex-meddleton.jpg" alt="business card" width="500px"/>
 
 ### Playing Cards
 
