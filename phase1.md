@@ -119,4 +119,11 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAACAAQMAAADJSp9YAAAAGXRFWHRTb2
 
 This is a png image that appears to be stereoscopic, you can plug that string into the Chrome URL bar to see the png. If you invert the image or make a copy of the image and slide it (delta, y= -48) the text is revealed as `mv firebass firebase`.
 
+<img src="screenshots/stereo_image.png" alt="first portal message" width="500px"/>
+
+<img src="screenshots/layered.png" alt="first portal message decoded" width="500px"/>
+
+
+Which hints us the command is `mv firebass firebase`
+
 The page has a countdown timer running until Monday May 23, 2016
