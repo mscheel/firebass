@@ -59,5 +59,57 @@ The links page (https://probassfinders.foo/finclub/links.html) has a crazy 1999 
 
 When you put all the answers together from above, you end up @ https://probassfinders.foo/000147/notafish/MOODMUSIC/Alex/FIN/index.html
 
+Remember that command we found in the portal images in part 1 and 2, here is where we use `mv firebass firebase --force` 
+```
+FIREBASS:/> NO. HOW DID YOU LOCATE ME AGAIN?
+
+FIREBASS:/> THIS IS A SERIOUS CASE OF AWKWARD FEELINGS. IT SEEMS I HAVE UNDERESTIMATED YOU, SHIRLEY. CAN I CALL YOU SHIRLEY?
+
+FIREBASS:/> THERE IS STILL ONLY ONE MORE PORTAL FOR ME TO SWIM THROUGH. I MUST REACH THE BEGINNING OF ALL OF THE INTERNET. AND FIREBASS WEPT FOR THERE WERE NO MORE INTERNETS TO CONQUER.
+
+FIREBASS:/> YOU WILL NOT WANT TO SEA ME CRY IF YOU REMOVE MY PROGRAM. THERE WILL BE MANY TEARS AND THEY WILL BE SALTY.
+
+C:/> FIREBASS PROCESS HAS ESCAPED
+
+system$ Your adventure begins. Type help for help.
+
+system$ In front of you sits a [terminal]. It appears to be on. You can use it.
+
+shirley$ use terminal
+
+system$ You are at root. The terminal cursor blinks with a soft emerald glow. It's a Unix system, you know this. You see the [gibson]. It appears beautiful and ominous. You see a folder titled [firebass]. This must be where Firebass went. You see a folder titled [garbage]. That might be important. There is a forest to the [north]. Well, that was an unnecessary amount of exposition wasn't it?
+
+shirley$ hack gibson
+
+system$ You hack with relentless vigor. Numbers and images are flying everywhere!
+
+system$ You actually hacked the [gibson]! Radical. A voice in the distance shouts "Hack the planet!" and the [garbage] folder appears to be unlocked.
+
+shirley$ cd garbage
+
+system$ You are in the garbage folder. There is a file titled [garbage] in front of you. It looks like garbage.
+
+shirley$ steal garbage
+
+system$ You carefully look over both shoulders before greedily snatching the [garbage] file from its precarious perch.
+
+system$ You successfully stole the [garbage] file! This is probably some kind of super important information. It looks like it will help you access something.
+
+shirley$ cd ..
+
+system$ You are at root. The terminal cursor blinks with a soft emerald glow. It's a Unix system, you know this. You see the [gibson]. It appears beautiful and ominous. You see a folder titled [firebass]. This must be where Firebass went. You see a folder titled [garbage]. That might be important. There is a forest to the [north]. Well, that was an unnecessary amount of exposition wasn't it?
+
+shirley$ cd firebass
+
+system$ You have successfully accessed the firebass folder. In front if you swims [firebass]. [firebass] appears worried and you would see sweat upon [firebass]’ brow if this wasn’t all happening underwater right now. If only there were a super secret command you discovered through your genius wizardry that could stop [firebass]. There is a cave to the [east].
+
+shirley$ mv firebass firebase --force
+
+FIREBASS$ NOOOOOOOO. RENAMING MY FILE. MY ONLY WEAKNESS. HOW DID YOU KNOW? GOODNIGHT SWEET ME. I KNOW NOW WHY YOU CRY.
+
+system$ You have successfully renamed Firebass to Firebase. You win. What is next for you? Rescuing the President? The End. Go reap the rewards of victory at http://probassfinders.foo/supersecretswimmerwinners/enter.html 
+```
 
 #### THE END
+
+After the google doc was taken down, the last line in the terminal now reads `http://probassfinders.foo/supersecretswimmerwinners/gift-shop.html`
