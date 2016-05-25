@@ -10,7 +10,12 @@ Scattered at the firebase area in google i/o were hundreds of these cards.
 
 ### Playing Cards
 
-TODO: Add pictures of the cards
+Decks of cards were scattered at the Firebase table as well.
+
+<img src="screenshots/playing_card_1.png" alt="deck of card" width="350px"/>
+
+<img src="screenshots/playing_card_2.png" alt="deck of card" width="350px"/>
+
 
 ### Email
 
