@@ -17,6 +17,11 @@ On the bottom of the page, the first part of the link is displayed right in fron
 <img src="screenshots/phase_3_hint_1.png" alt="sub 1" width="200px"/>
 
 #### Clue #2 (notafish)
+
+If you look in the source code of the photo page @ https://probassfinders.foo/finclub/photos.html, the [sup] tag has the answer within 
+
+<img src="screenshots/phase_3_hint_2.png" alt="sub 1" width="400px"/>
+
 #### Clue #3 (MOODMUSIC)
 
 When you click on the sound bit @ https://probassfinders.foo/finclub/featured-fish.html you see a reference to this code in your console. 
@@ -43,10 +48,14 @@ This one was hiding in plain sight @ the bass guestbook (https://probassfinders.
 <img src="screenshots/phase_4_hint_1.png" alt="sub 5" width="400px"/>
 
 
-#### Clue #5 (index)
+#### Clue #5 (Fin)
+
+The links page (https://probassfinders.foo/finclub/links.html) has a crazy 1999 background that moves, if you capture it in the proper frame you can see the reference to [5] and the word Fin.
+
+<img src="screenshots/phase_4_hint_5.png" alt="sub 5" width="400px"/>
 
 
-#### The terminal
+#### THE TERMINAL
 
 When you put all the answers together from above, you end up @ https://probassfinders.foo/000147/notafish/MOODMUSIC/Alex/FIN/index.html
 
