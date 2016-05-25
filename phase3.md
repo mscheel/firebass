@@ -52,7 +52,7 @@ This one was hiding in plain sight @ the bass guestbook (https://probassfinders.
 
 The links page (https://probassfinders.foo/finclub/links.html) has a crazy 1999 background that moves, if you capture it in the proper frame you can see the reference to [5] and the word Fin.
 
-<img src="screenshots/phase_4_hint_5.png" alt="sub 5" width="400px"/>
+<img src="screenshots/phase_3_hint_5.png" alt="sub 5" width="400px"/>
 
 
 #### THE TERMINAL
