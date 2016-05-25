@@ -37,6 +37,12 @@ After downloading the file, `spectogram.wav` you can put it into audacity and co
 <img src="screenshots/hint_3_decoded.png" alt="sub 3" width="700px"/>
 
 #### Clue #4 (Alex)
+
+This one was hiding in plain sight @ the bass guestbook (https://probassfinders.foo/finclub/guestbook.html)
+
+<img src="screenshots/phase_4_hint_1.png" alt="sub 5" width="400px"/>
+
+
 #### Clue #5 (index)
 
 
