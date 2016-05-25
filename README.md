@@ -1,8 +1,5 @@
 # Firebass > > ( ( ( ° <
 
-
-**PLEASE update contact.info** with your info, if you want to continue into phase 3, we'll be having a video hangout at 4:50PM Tuesday night May 24 California time.  Ten minutes later the countdown should be up and phase 3 will begin ...
-
 Let's catch this fish together!
 
 ```
@@ -87,21 +84,6 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAACAAQMAAADJSp9YAAAAGXRFWHRTb2
 ```
 ![stereo_image.png](stereo_image.png)
 
-From blp.html in dev console run - > `timerCallback(true)`
-for a fun surprise
-
-![2008.png](2008.png)
-
-Note: First Google I/O was in 2008 ;) (per our tees this year, first one was 2006, 2008 was first in SF though and the first per wikipedia)
-
-Clicking the red, yellow, and green buttons in the Mac style terminal window on blp.html reveals short text jokes in the terminal
-```
-firebass$ NO. YOU CANNOT QUIT ME.
-
-firebass$ THERE IS NO HIDING FROM THIS.
-
-firebass$ YES. TAKE IT TO THE MAX.
-```
 
 Moving a second layer of the image around you get this (photoshop > edit > free transform > click triangle by y, set y to -48, click check):
 
