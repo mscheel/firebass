@@ -126,6 +126,7 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAEAAgMAAAA2LfrkAAAACXBIWXMAAA
 <img src="screenshots/stereo_image_2_clean.png" alt="second stereograph decoded" width="500px"/>
 
 * This is a png image that appears to be stereoscopic, you can plug that string into the Chrome URL bar to see the png
-* If you invert the colors and shade in the bottom and top parts, you see `File may be resistant, use the --force`
+* The middle section is the same stereoscopic image as from before. Duplicating and shifting horizontally reveals mv firebass firebase.
+* Certain pixels in the top and bottom bars are colored a shade of gray instead of white or black. Isolating these gray pixels reveals "file may be resistant" and "use the --force".
 
 
