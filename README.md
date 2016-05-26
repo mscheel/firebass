@@ -25,3 +25,10 @@ Let's catch this fish together!
 
 ```
 
+[Part 0: Intro](phase0.md)
+
+[Part 1: Start -> 1st time lock](phase1.md)
+
+[Part 2: 1st time lock -> 2nd time lock](phase2.md)
+
+[Part 3: 2nd time lock -> entry form](phase3.md)
