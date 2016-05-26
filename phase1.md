@@ -91,9 +91,11 @@ firebass$ YOUR HUMAN BRAIN CANNOT COMPREHEND THE BINARY STREAM LIKE THAT OF SUPE
 
 When you convert that you end up at `https://probassfinders.foo/bass/blp.html`.
 
-Side note: if you solve the puzzle by clicking all the boxes, you get a javascript pop-up: 
+Side note: if you solve the puzzle by checking all boxes (an easy way is to triple click each box, which guarantees that it and all surrounding will be checked), you get a javascript pop-up: 
 
 <img src="screenshots/red_herring.png" alt="portal 2008" width="500px"/>
+
+This is reference to a "red herring" which means there's no clue in solving the puzzle.
 
 #### Clue #5
 
