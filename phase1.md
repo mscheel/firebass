@@ -125,6 +125,8 @@ This is a png image that appears to be stereoscopic, you can plug that string in
 
 <img src="screenshots/layered.png" alt="first portal message decoded" width="500px"/>
 
+<img src="screenshots/stereo_image_1_clean.png" alt="first portal message clean" width="500px"/>
+
 
 Which hints us the command is `mv firebass firebase`
 
