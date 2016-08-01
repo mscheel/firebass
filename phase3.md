@@ -123,6 +123,9 @@ FIREBASS$ NOOOOOOOO. RENAMING MY FILE. MY ONLY WEAKNESS. HOW DID YOU KNOW? GOODN
 
 system$ You have successfully renamed Firebass to Firebase. You win. What is next for you? Rescuing the President? The End. Go reap the rewards of victory at http://probassfinders.foo/supersecretswimmerwinners/enter.html 
 ```
+The winner's form looked like:
+
+<img src="screenshots/phase_3_winners_form.png" alt="sub 6" width="700px"/>
 
 #### THE END
 
