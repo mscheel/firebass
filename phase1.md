@@ -60,7 +60,7 @@ After converting that from binary to ascii, the string `hgwells` appears (he is 
 
 If you combine the two parts, you go to this page to continue:
 
-probassfinders.com/home/hgwells.html
+probassfinders.foo/home/hgwells.html
 
 
 #### Clue #3
